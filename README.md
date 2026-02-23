@@ -81,23 +81,7 @@ Privacy-first digital gifting platform.
 - Secure server-generated signed tokens
 - Scalable, ad-free, privacy-focused system
 
-🔗 Live Platform: (Add your link)  
-🔗 Repository: (Add repo link)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akmal-malik&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-malik&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akmal-malik&theme=default&hide_border=true" height="150"/>
-</p>
-
----
+🔗 Live Platform: https://giveyu.online
 
 ## 🎯 Career Focus
 
