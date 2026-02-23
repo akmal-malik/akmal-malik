@@ -1,12 +1,12 @@
 <!-- Animated Header -->
-<h1 align="center">Hi 👋 I'm Akmal Malik</h1>
+<h1 align="center">Hi 👋 I'm Mohammad Akmal Salim Malik</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Full+Stack+Developer;Web3+Enthusiast;Building+Data-Driven+Solutions" />
 </p>
 
 <h3 align="center">
-Data Analytics • Full Stack Development • Emerging Technologies
+Aspiring Data Analytics • Motivated Full Stack Development • Emerging Technologies
 </h3>
 
 <p align="center">
