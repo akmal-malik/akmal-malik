@@ -2,21 +2,21 @@
 <h1 align="center">Hi 👋 I'm Mohammad Akmal Salim Malik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Full+Stack+Developer;Web3+Enthusiast;Building+Data-Driven+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Full+Stack+Learner;Web3+Explorer;Building+Projects+%26+Growing+Every+Day" />
 </p>
 
 <h3 align="center">
-Aspiring Data Analytics • Motivated Full Stack Development • Emerging Technologies
+Data Analytics • Full Stack Development • Emerging Technologies
 </h3>
 
 <p align="center">
-Computer Applications student passionate about transforming data into insights 
-and building scalable, secure digital products.
+Computer Applications student focused on building practical projects, 
+strengthening problem-solving skills, and continuously learning modern technologies.
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack (Learning & Applying)
 
 ### 📊 Data & Analytics
 <p>
@@ -29,7 +29,7 @@ and building scalable, secure digital products.
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Transformation
 - Data Visualization
-- Business Insight Extraction
+- Extracting Business Insights
 
 ---
 
@@ -38,11 +38,11 @@ and building scalable, secure digital products.
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb" />
 </p>
 
-- REST APIs  
-- Authentication & Authorization  
-- Database Integration  
-- Server-side Logic  
-- Responsive Design  
+- REST API fundamentals  
+- Authentication basics  
+- Database integration  
+- Server-side logic  
+- Responsive UI development  
 
 ---
 
@@ -51,42 +51,46 @@ and building scalable, secure digital products.
 <img src="https://skillicons.dev/icons?i=ethereum,solidity" />
 </p>
 
-- Blockchain Fundamentals  
-- Smart Contracts (Basics)  
-- Web3 Architecture  
-- Decentralized Applications (DApps)  
-- IPC Concepts  
+- Blockchain fundamentals  
+- Smart contract basics  
+- Web3 architecture concepts  
+- Decentralized application understanding  
 
 ---
 
 ## 📌 Featured Projects
 
 ### 📊 Superstore Sales Analysis
-- Analyzed $2.26M dataset
-- Built interactive Tableau dashboard
-- Identified regional & segment performance
-- Extracted multi-year growth trends
+End-to-end data analysis project using Kaggle dataset.
+
+- Analyzed $2.26M sales dataset  
+- Built interactive Tableau dashboard  
+- Identified regional and segment performance  
+- Observed multi-year growth trends (2015–2018)  
 
 🔗 Repository:  
-https://github.com/akmal-malik/superstore-sales-analysis-tableau
+https://github.com/akmal-malik/superstore-sales-analysis-tableau  
 
 ---
 
-### 🎁 GiveYu – LDR Digital Gift Platform
-Privacy-first digital gifting platform.
+### 🎁 GiveYu – LDR Digital Gift Platform  
+A privacy-focused digital gifting platform built as a real-world product project.
 
-- Full-stack architecture
-- Token-based premium access (no database storage)
-- Razorpay payment integration
-- Secure server-generated signed tokens
-- Scalable, ad-free, privacy-focused system
+- Developed frontend user experience  
+- Implemented secure token-based access system  
+- Reached 12k+ user in 6 months   
+- Focused on privacy-first and scalable design principles  
 
-🔗 Live Platform: https://giveyu.online
+🔗 Live Platform: https://giveyu.online  
 
-## 🎯 Career Focus
+---
 
-Blending **data-driven decision making** with **full-stack application development**  
-to build intelligent, scalable, and secure digital solutions.
+## 🎯 Current Focus
+
+- Strengthening SQL and data querying skills  
+- Building more real-world analytics projects  
+- Improving backend fundamentals  
+- Learning by building consistently  
 
 ---
 
@@ -102,5 +106,5 @@ to build intelligent, scalable, and secure digital solutions.
 ---
 
 <p align="center">
-⭐ Open to collaboration, internships, and data-driven opportunities.
+🚀 Continuously learning. Building consistently. Improving every day.
 </p>
