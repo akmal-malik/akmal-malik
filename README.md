@@ -16,9 +16,9 @@ strengthening problem-solving skills, and continuously learning modern technolog
 
 ---
 
-## 🛠 Tech Stack (Learning & Applying)
+##  Tech Stack (Learning & Applying)
 
-### 📊 Data & Analytics
+###  Data & Analytics
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
@@ -33,7 +33,7 @@ strengthening problem-solving skills, and continuously learning modern technolog
 
 ---
 
-### 💻 Full Stack Development
+###  Full Stack Development
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb" />
 </p>
@@ -46,7 +46,7 @@ strengthening problem-solving skills, and continuously learning modern technolog
 
 ---
 
-### 🔗 Web3 & Emerging Tech
+###  Web3 & Emerging Tech
 <p>
 <img src="https://skillicons.dev/icons?i=ethereum,solidity" />
 </p>
@@ -58,9 +58,9 @@ strengthening problem-solving skills, and continuously learning modern technolog
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 📊 Superstore Sales Analysis
+###  Superstore Sales Analysis
 End-to-end data analysis project using Kaggle dataset.
 
 - Analyzed $2.26M sales dataset  
@@ -73,7 +73,7 @@ https://github.com/akmal-malik/superstore-sales-analysis-tableau
 
 ---
 
-### 🎁 GiveYu – LDR Digital Gift Platform  
+###  GiveYu – LDR Digital Gift Platform  
 A privacy-focused digital gifting platform built as a real-world product project.
 
 - Developed frontend user experience  
@@ -85,7 +85,7 @@ A privacy-focused digital gifting platform built as a real-world product project
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Strengthening SQL and data querying skills  
 - Building more real-world analytics projects  
@@ -94,7 +94,7 @@ A privacy-focused digital gifting platform built as a real-world product project
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <p>
 🔗 <b>LinkedIn:</b> 
