@@ -82,7 +82,7 @@ Comprehensive financial analytics project analyzing the performance and risk cha
 - Built an interactive Tableau dashboard for financial insights  
 
 🔗 Repository:  
-https://github.com/akmal-malik/nifty-50-market-performance-risk-analytics  
+https://github.com/akmal-malik/NIFTY-50-Market-Performance-Risk-Analytics-Dashboard.git
 
 ---
 
