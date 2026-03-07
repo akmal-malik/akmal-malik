@@ -73,6 +73,19 @@ https://github.com/akmal-malik/superstore-sales-analysis-tableau
 
 ---
 
+###  NIFTY 50 Market Performance & Risk Analytics
+Comprehensive financial analytics project analyzing the performance and risk characteristics of companies in the NIFTY 50 index.
+
+- Collected stock market data using Yahoo Finance  
+- Performed return, volatility, and comparative risk analysis  
+- Identified high-performing and high-risk companies  
+- Built an interactive Tableau dashboard for financial insights  
+
+🔗 Repository:  
+https://github.com/akmal-malik/nifty-50-market-performance-risk-analytics  
+
+---
+
 ###  GiveYu – LDR Digital Gift Platform  
 A privacy-focused digital gifting platform built as a real-world product project.
 
